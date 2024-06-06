@@ -1,0 +1,47 @@
+SE-Assignment-2 
+
+1.	Define software engineering
+•	Software engineering is the process that is being when designing, developing, testing, and maintaining software, which is used by software engineers to apply technical knowledge and engineering principles to create develop, produce, and maintain software.
+2.	 How does it differ from traditional programming 
+•	Programming is mainly concerned with writing code to solve specific problems. Software engineering is concerned with developing software products that are reliable, efficient and easy to maintain. It applies scientific and mathematical principles to the design, analysis and implementation of software systems.
+3.	Description for each Phase Agile vs Waterfall models
+•	Agile is a project management and software development methodology that emphasizes flexibility, collaboration, and customer satisfaction. It is characterized by an interactive and incremental approach, where requirements and solutions evolve through the collaborative effort of self-organizing and cross functional teams.
+Characteristics of Agile
+•	Iterative and incremental approach: Agile methodologies break down large projects into smaller, manageable chunks called iterations or sprints. This allows teams to deliver working software quickly and to receive feedback from customers early in the development process.
+•	Adaptive approach: Agile methodologies are designed to be flexible and adaptable to change. This allows teams to respond quickly to changing requirements and to incorporate new ideas and feedback as they arise.
+•	Collaborative and self-organizing teams: Agile methodologies rely on the participation and collaboration of all team members.
+•	Emphasis on customer satisfaction: Agile methodologies place a strong emphasis on customer satisfaction. Teams work closely with customers to understand their needs and to deliver working software that meets those needs.
+•	Continuous improvement: Agile methodologies are designed to promote continuous improvement. Teams regularly reflect on their performance and look for ways to improve their processes and practices.
+•	Working software over comprehensive documentation: Agile methodologies prioritize working software over comprehensive documentation
+
+Waterfall 
+•	Waterfall is a linear, sequential approach to software development. It is based on the idea that all the requirements for a project can be gathered at the beginning of the project, and that each phase of the project should be completed before moving on to the next phase
+
+Phases of Waterfall 
+
+•	Requirements gathering: This phase involves gathering all the requirements for the project from the customer or end-user. This includes determining the project’s goals, objectives, and any constraints that need to be considered.
+•	Design: In this phase, the system’s architecture, interfaces, and data structures are designed. All the components of the system are identified, and their relationships are defined.
+•	Implementation: This phase involves the actual coding of the system. The design is translated into code and the system is built.
+•	Testing: In this phase, the system is tested to ensure that it meets the requirements and functions as expected. Any defects or bugs are identified and fixed.
+•	Deployment: The final phase of the Waterfall model is deployment. The system is deployed to the customer or end-user, and any necessary training and documentation is provided.
+
+4.	Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred? Requirements Engineering
+
+Waterfall Model:
+•	Sequential Approach: Waterfall follows a linear sequence of phases (requirements, design, development, testing, deployment) with well-defined hand-offs.
+•	Thorough Planning: All requirements are gathered upfront before proceeding to the next phase.
+•	Rigidity: Changes are challenging once a phase is complete.
+Preferred Scenarios 
+•	Stable Requirements: When project to change significantly.
+•	Predictable Environment:  For well -understood domains with clear specifications.
+•	Critical Systems:  In Safety-critical systems where thorough planning is crucial.
+Agile Model
+•	 Iterative and Adaptive: Agile emphasizes flexibility, rapid iterations, and continuous feedback.
+•	Sprints: Work is divided into time-bound Sprints (typically 1-4 weeks), delivering value incrementally.
+•	Collaboration: Teams self-organize, adapt, and collaborate closely with stakeholders.
+Preferred Scenarios:
+
+•	Changing Requirements: When requirements evolve or need frequent adjustments.
+•	Innovative Projects: For exploratory or innovative endeavors.
+•	Dynamic Environments: When market conditions or technology evolve rapidly.
+5.	What is requirements engineering? Describe the process and its importance in the software development lifecycle. Software Design Principles
